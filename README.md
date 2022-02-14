@@ -2,6 +2,8 @@
 
 example typescript project to get started with typescript
 
+demo: https://snackaholic.github.io/mazegeneration/dist/index.html
+
 # install
 
 D:\Programmierung\mazegenerator> npm install
