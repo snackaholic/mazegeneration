@@ -1,6 +1,6 @@
 # Mazegenerator
 
-example typescript project to get started with typescript
+example typescript project to get a overview how to get started with typescript projects
 
 demo: https://snackaholic.github.io/mazegeneration/dist/index.html
 
